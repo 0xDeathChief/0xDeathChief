@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-leader&show_icons=true&locale=en" alt="hunter-leader" /></p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=659541" style='border:none;'></iframe>
+<a src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=659541" style='border:none;'></a>
