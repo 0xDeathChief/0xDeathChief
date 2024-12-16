@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a <strong>Cybersecurity Student</strong> pas
 
 - 🌱 Currently learning **Exploit Development**, **Reverse Engineering**, and **Networking Security**.
 
-- 🎯 Aiming to build a career in **Offensive Security** and **Vulnerability Research**.
+- 🎯 Aiming to build a career in **Offensive Security** and **Malware Developer**.
            
 
 
