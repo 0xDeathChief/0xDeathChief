@@ -19,13 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-leader&show_icons=true&locale=en" alt="hunter-leader" /></p>
 
-
-
-## My TryHackMe Progress
-
-### Completed Rooms
-<!-- TRYHACKME-ROOMS-START -->
-<!-- This section will be updated automatically -->
-<!-- TRYHACKME-ROOMS-END -->
-
-Check out my TryHackMe profile: [ExploitByte's Profile](https://tryhackme.com/r/p/ExploitByte)
