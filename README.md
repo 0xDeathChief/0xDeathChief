@@ -24,18 +24,6 @@ Welcome to my GitHub profile! I’m a <strong>Cybersecurity Student</strong> pas
 <br>
 
 
-## 📊 My Progress & Stats
-
-<br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter404&show_icons=true&count_private=true&theme=dark" alt="Hunter404's GitHub Stats">
-</div>
-
-<br>
-<br>
-
-
 ## 🌐 Let's Connect
 
 <br>
