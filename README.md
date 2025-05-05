@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m a <strong>Cybersecurity Student</strong> pas
 
 <br>
 
-<a href="https://github.com/Hunter-leader">
+<a href="https://github.com/0xDeathChief">
 <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&color=181717" alt="GitHub" /></a>
 
 <br>
